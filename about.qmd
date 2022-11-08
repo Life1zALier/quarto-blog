@@ -1,0 +1,16 @@
+---
+title: "关于"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: wechat
+      text: Wechat:jiesi6731
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com/Life1zALier
+
+---
+
+关于本博客
